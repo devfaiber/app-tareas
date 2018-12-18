@@ -1,0 +1,28 @@
+{
+  "name": "app_tareas",
+  "version": "1.0.0",
+  "description": "permite visualizar tareas y crear junto con eliminaciones personalizadas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faiber332/app-tareas.git"
+  },
+  "keywords": [
+    "tareas",
+    "app",
+    "nodejs"
+  ],
+  "author": "faiber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faiber332/app-tareas/issues"
+  },
+  "homepage": "https://github.com/faiber332/app-tareas#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^12.0.5"
+  }
+}

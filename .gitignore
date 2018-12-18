@@ -1,0 +1,5 @@
+
+#excluyo estos archivos
+node_modules/
+package-lock.json
+archivos/notas.json
